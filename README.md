@@ -1,3 +1,3 @@
 # zanzibar
 Site de Zanzibar en flexbox
-https://github.com/Kaladeth/zanzibar.git
+https://kaladeth.github.io/zanzibar/
