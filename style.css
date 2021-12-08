@@ -1,0 +1,41 @@
+/* Couleurs */
+.link {
+    color:#ff9a17;
+    text-decoration:none;
+    font-size:20px;
+}
+.link:hover {
+    background-color:lavender;
+}
+/* Police */
+p {
+    font-size:25px
+}
+/* Global */
+nav {
+    flex-direction:row;
+    text-transform:uppercase;
+    color:orange;
+    font-family:'Baloo Bhai', cursive;
+    font-size:40px;
+    display:flex;
+    height:100px;
+    justify-content:space-around;
+    align-items:center;
+    border-style:solid;
+    border-color:#ff9a17;
+    border-radius:40px;
+    
+    
+   
+}
+#logo {
+width:100px;
+
+}
+/* Affecte le bloc de liens */
+#bloc {
+display:flex;
+justify-content:space-around;
+width:50%;
+}
